@@ -1,10 +1,6 @@
 
 
-#Attack and Defense of Deep Learning Models in the Field of Web Attack Detection
-
-https://github.com/ScarlettShi/attackDefenceinDL
-
-
+Attack and Defense of Deep Learning Models in the Field of Web Attack Detection
 
 ## Table of Contents
 
