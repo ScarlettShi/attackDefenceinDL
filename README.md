@@ -2,7 +2,7 @@
 
 #Attack and Defense of Deep Learning Models in the Field of Web Attack Detection
 
-https://github.com/hiyouga/LLaMA-Factory/assets/16256802/9840a653-7e9c-41c8-ae89-7ace5698baf6
+https://github.com/ScarlettShi/attackDefenceinDL
 
 
 
@@ -60,4 +60,4 @@ Other basic parameters for model training:
 - **create_model.py\bert_trainer**:The neural network architecture has been defined.
 - **train.py**:The main training file.
 
-If you have any questions or suggestions, please contact me.
+If you have any questions or suggestions, please contact me,e-mail: ljshistat@163.com
